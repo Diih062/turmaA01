@@ -1,3 +1,3 @@
 # turmaA01
 
-- Commit feito por: <Diih062>
+- Commit feito por: Diogenes
