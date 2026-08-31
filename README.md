@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # turmaA01
 
 <<<<<<< HEAD
@@ -8,4 +9,10 @@ Commit Feito Por: Yago Pereira
 >>>>>>> origin/diogenes
 =======
 # turmaA01
+>>>>>>> origin/diogenes
+=======
+turmaA01
+<<<<<<< HEAD Commit Feito Por: Yago Pereira
+Commit feito por: Diogenes
+origin/diogenes
 >>>>>>> origin/diogenes
